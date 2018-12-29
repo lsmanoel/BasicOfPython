@@ -1,2 +1,2 @@
 # BasicOfPython
-Basic Of You Need Know About Python
+Basic that We Need Know About Python
